@@ -7,7 +7,7 @@
 {"key":"美食","name":"🍔美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ljmaizhyg111/ljm/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
 {"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ljmaizhyg111/ljm/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
 {"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ljmaizhyg111/ljm/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
-{"key":"戏曲","name":"👘戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ljmaizhyg111/ljm/main/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"},
+{"key":"戏曲","name":"👘戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ljmaizhyg111/ljm/main/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"}
 
 ],
 
